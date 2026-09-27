@@ -1,0 +1,2 @@
+manufacturer,product_family,model_name,device_type,sku,source_url,checked_on,ram_gb
+Synthetic Test Co,Test Family,Test Model,laptop,TEST-001,https://example.test/specs/one,2026-09-27,16
